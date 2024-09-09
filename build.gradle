@@ -46,6 +46,6 @@ test {
 }
 
 jar {
-	enabled=true
-	archiveClassifier = '' // Classifier 제거
+	enabled=false
+	archiveClassifier = '' // Classifi
 }
